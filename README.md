@@ -15,3 +15,4 @@ The multi-line chart can be found below.
 All the city types have peaks in late-February; approximately $480 in total fares for rural cities, $1400 for suburban cities, and $2500 for urban cities. Total rural fares has another peak during early-March reaching around $500. Urban cities have two more peaks for fare total during early-March and late-March at ~$2500 and ~$2350. 
 
 ## Summary
+Based on the analysis, several discrepancies can be found between the different city types. One noticable discrepancy is the rise in fare total for rural cities during the first week of April while the total fare decreases for Suburban cities in the same timeframe. A possible business strategy to take advantage of this trend would be to relocate or otherwise encourage drivers from suburban areas into more rural areas during that time period to provide a higher supply of available drivers to the areas in more need.
